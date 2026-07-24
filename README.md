@@ -46,3 +46,24 @@ solutions that can impact everyday life.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Cervelati/Cervelati/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Cervelati/Cervelati/output/snake.svg"
+    />
+    <img
+      alt="Snake eating my contribution graph"
+      src="https://raw.githubusercontent.com/Cervelati/Cervelati/output/snake.svg"
+    />
+  </picture>
+</p>
